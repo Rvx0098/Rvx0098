@@ -2,79 +2,68 @@
 
 # Hi, I'm Rishit Verma 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Analytics+Student;Power+BI+Developer;AI+Automation+Learner;Creative+Tech+Builder;Future+Data+Scientist&center=true&width=700&height=50&color=58A6FF)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Analytics+Student;Power+BI+Developer;AI+Automation+Learner;Web+Developer;Creative+Tech+Builder&center=true&width=700&height=50&color=58A6FF)
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech IT (Data Analytics) Student  
-🏫 Student at MIT ADT Pune
+🎓 B.Tech Information Technology (Data Analytics) Student
 
-I’m a multidisciplinary tech creator passionate about building impactful digital experiences through development, analytics, automation, design, and AI. I enjoy solving real-world problems, creating modern projects, and continuously learning new technologies across multiple domains.
+🏫 MIT ADT University, Pune
+
+📊 Passionate about Data Analytics, Business Intelligence, Automation, AI, and Modern Web Development
+
+💡 I enjoy transforming raw data into meaningful insights and building impactful digital solutions that combine technology, design, and creativity.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishitvermaa)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishitvermaformall@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishitvermaa)
 
 ---
 
 # 🚀 Tech Stack
 
-## 💻 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 📊 Data Analytics
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-
----
-
-## 📊 Data Analytics
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Tableau](https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau)
-
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
+### 👨‍💻 Programming
 
-## 👨‍💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+### 💻 Web Development
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🤖 AI & Automation
+### 🤖 AI & Automation
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai)
-
-![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge)
-
+![API](https://img.shields.io/badge/APIs-005571?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-FF6B6B?style=for-the-badge)
 
----
+### 🎨 Design
 
-## 🎨 Design & Creative
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-EA1001?style=for-the-badge&logo=adobe&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=Rvx0098&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rvx0098&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rvx0098&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rvx0098&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -84,35 +73,56 @@ I’m a multidisciplinary tech creator passionate about building impactful digit
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced Automation Systems
-- AI Integrations
-- Full Stack Development
-- Scalable Analytics Projects
-
----
-
-# 🎯 What I Bring
-
-Creative thinking, problem-solving mindset, adaptability, and the ability to combine technology with design to build engaging and efficient digital solutions.
-
----
-
 # 🚀 Featured Projects
 
-## 📈 Financial Data Trends Dashboard
+### 📈 Financial Data Trends Dashboard
 Interactive Power BI dashboard featuring:
 - Time-Series Analysis
 - Forecasting
 - KPI Metrics
 - Trading Volume Analysis
+- Monthly Trend Analysis
 
-## 🤖 AI Automation Projects
-Workflow automations and AI-powered productivity systems.
+### 📊 Data Pulse Java Analytics Suite
+Java-based analytics project demonstrating data processing and visualization concepts.
 
-## 🌐 Portfolio Website
-Modern responsive portfolio with UI/UX focused design.
+### 🤖 AI Automation Projects
+Workflow automation projects integrating AI tools, APIs, and productivity systems.
+
+### 🌐 Personal Portfolio Website
+Modern responsive portfolio showcasing projects, skills, certifications, and achievements.
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Workflow Automation
+- AI Integrations & Agents
+- Full Stack Development
+- Advanced Power BI & DAX
+- Scalable Analytics Systems
+
+---
+
+# 🎯 What I Bring
+
+✔ Analytical Thinking
+
+✔ Problem Solving
+
+✔ Data Storytelling
+
+✔ Creative Design Mindset
+
+✔ Adaptability & Continuous Learning
+
+✔ Cross-Domain Technical Skills
+
+---
+
+# 📈 Activity Graph
+
+[![Rishit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rvx0098&theme=tokyo-night)](https://github.com/Rvx0098)
 
 ---
 
@@ -124,10 +134,22 @@ Modern responsive portfolio with UI/UX focused design.
 
 # 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Rvx0098&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Rvx0098&style=for-the-badge&color=blueviolet)
 
 ---
 
-⭐ Always building, learning, and experimenting with new ideas.
+## 🎵 Beyond Tech
+
+🎸 Learning Guitar
+
+🎵 Music Production
+
+🎮 Gaming & Content Creation
+
+🎨 Design & Visual Storytelling
+
+---
+
+⭐ *"Always building, learning, and creating something new."*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer)
