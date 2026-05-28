@@ -58,18 +58,14 @@
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rvx0098&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rvx0098&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![Rishit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rvx0098&show_icons=true&theme=radial&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rvx0098&layout=compact&theme=radial&hide_border=true)
 
----
+## 🏆 GitHub Trophies
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Rvx0098&theme=tokyonight&no-frame=true&margin-w=10)
+[![github trophy](https://github-profile-trophy.vercel.app/?username=Rvx0098&theme=radial&no-bg=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
