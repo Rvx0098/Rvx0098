@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 🎓 B.Tech IT (Data Analytics) Student  
-🏫 Student at RGPV  
+🏫 Student at MIT ADT Pune
 
 I’m a multidisciplinary tech creator passionate about building impactful digital experiences through development, analytics, automation, design, and AI. I enjoy solving real-world problems, creating modern projects, and continuously learning new technologies across multiple domains.
 
